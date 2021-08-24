@@ -567,6 +567,7 @@ a {
 .callout .btn {
   justify-self: center;
   align-self: center;
+  color: #fff;
 }
 
 .callout__content {
